@@ -1,6 +1,6 @@
 # incremental-dom-react-helper
 
-Helper to make Google's incremental-dom library work with React's compile target today.
+Helper to make Google's [incremental-dom](https://github.com/google/incremental-dom) library work with React's compile target today.
 
 ```js
 let dom = (
