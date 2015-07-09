@@ -2,6 +2,8 @@
 
 Helper to make Google's [incremental-dom](https://github.com/google/incremental-dom) library work with React's compile target today.
 
+Example: http://jsbin.com/yoturaneca/edit?js,output
+
 ```js
 let dom = (
   <div className="foo">
