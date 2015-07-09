@@ -1,0 +1,27 @@
+{
+  "name": "incremental-dom-wrapper",
+  "version": "0.0.0",
+  "description": "Helper to make Google's incremental-dom library work with React's compile target today.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejameskyle/incremental-dom-react-helper.git"
+  },
+  "keywords": [
+    "React",
+    "incremental-dom",
+    "virtual-dom"
+  ],
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejameskyle/incremental-dom-react-helper/issues"
+  },
+  "homepage": "https://github.com/thejameskyle/incremental-dom-react-helper#readme",
+  "dependencies": {
+    "incremental-dom": "^0.1.0"
+  }
+}
