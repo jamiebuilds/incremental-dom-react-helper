@@ -17,8 +17,7 @@ function parseAttrsObj(attrsObj) {
       key = 'class';
     }
 
-    attrs.push(key);
-    attrs.push(val);
+    attrs.push(key, val);
   }
 
   return {
